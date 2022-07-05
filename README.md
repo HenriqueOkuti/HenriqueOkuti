@@ -22,9 +22,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/HenriqueOkuti/HenriqueOkuti/blob/output/snake.svg" alt="Snake animation" />
-
-###
