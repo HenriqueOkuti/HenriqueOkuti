@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=HenriqueOkuti" height="150" alt="languages graph"  />
 </div>
 
-<div align="space-between">
-![HenriqueOkuti GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueOkuti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOkuti&layout=compact)
+<div align="center">
+  ![HenriqueOkuti GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueOkuti&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOkuti&layout=compact)
 </div>
