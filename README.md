@@ -4,13 +4,17 @@
 
 <h3 align="left">About me</h2>
 
+* <p align="left">I'm a physics bachelor with a major in optics and photonics</p>
+* <p align="left">Currently doing a Full Stack Bootcamp <a href="https://www.driven.com.br/">@Driven</a></p>
+* <p align="left">Coffee enthusiast</p>
+* <p align="left"><a href="https://www.codewars.com/users/HenriqueOkuti">Codewars</a> doer on my spare time</p>
+* <p align="left">I also casually dabble on japanese otaku culture</p>
+
 ###
 
-* <p align="left">I'm a physics bachelor with a major in optics and photonics</p>
-* <p align="left">Currently doing a Full Stack Bootcamp @[Driven](https://www.driven.com.br/)</p>
-* <p align="left">This is a text about [Jekyll](https://jekyllrb.com/docs/)</p>
-* <p align="left">This is a text about me</p>
-* <p align="left">This is a text about me</p>
+<h3 align="left">Contact me</h2>
+
+* <p align="left"><a href="mailto:henrique.krastins@gmail.com">henrique.krastins@gmail.com</a></p>
 
 ###
 
