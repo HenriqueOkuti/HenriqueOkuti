@@ -6,7 +6,7 @@
 
 * <p align="left">I'm a physics bachelor with a major in optics and photonics</p>
 * <p align="left">Currently doing a Full Stack Bootcamp <a href="https://www.driven.com.br/">@Driven</a></p>
-* <p align="left">Coffee enthusiast</p>
+* <p align="left">Coffee enthusiast &#9749</p>
 * <p align="left"><a href="https://www.codewars.com/users/HenriqueOkuti">Codewars</a> doer on my spare time</p>
 * <p align="left">I also casually dabble on japanese otaku culture</p>
 
