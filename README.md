@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">This is a text about me</p>
+* <p align="left">This is a text about me</p>
+* <p align="left">This is a text about me</p>
+* <p align="left">This is a text about me</p>
 
 ###
 
