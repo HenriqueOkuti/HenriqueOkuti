@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 * <p align="left">I'm a physics bachelor with a major in optics and photonics</p>
-* <p align="left">Currently doing a Full Stack Bootcamp <a href="https://www.driven.com.br/">@Driven</a></p>
+* <p align="left">Currently finishing a Full Stack Bootcamp <a href="https://www.driven.com.br/">@Driven</a></p>
 * <p align="left">Coffee enthusiast &#9749</p>
 * <p align="left"><a href="https://www.codewars.com/users/HenriqueOkuti">Codewars</a> doer on my spare time</p>
-* <p align="left">I also casually dabble on japanese otaku culture</p>
+* <p align="left">I also casually dabble on japanese otaku culture, feel free to ask me about what i'm watching this season</p>
 
 ###
 
@@ -18,16 +18,28 @@
 
 ###
 
-<h3 align="left">I code with</h2>
+<h3 align="left">Tools and languages i enjoy</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres logo" />  
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma logo"  />  
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo"  />    
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo"  />      
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres logo" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python logo"  />
+
 </div>
 
 ###
+
+<h3 align="left">Some stats</h2>
+
+###
+
+[![HenriqueOkuti's GitHub stats](https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti)](https://github.com/HenriqueOkuti/github-readme-stats)
+
+###
+
