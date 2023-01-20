@@ -15,6 +15,7 @@
 <h3 align="left">Contact me</h2>
 
 * <p align="left"><a href="mailto:henrique.krastins@gmail.com">henrique.krastins@gmail.com</a></p>
+* <p align="left"><a href="https://www.linkedin.com/in/henrique-okuti/">Linkedin Profile</a></p>
 
 ###
 
