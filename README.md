@@ -58,8 +58,8 @@
 
 ###
 
-[![HenriqueOkuti's GitHub stats](https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)](https://github.com/HenriqueOkuti/github-readme-stats)
+[![HenriqueOkuti's GitHub stats](https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)](https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)
 
-[![HenriqueOkuti's GitHub languages](https://github-readme-stats-gold-kappa-64.vercel.app/api/top-langs/?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)](https://github.com/HenriqueOkuti/github-readme-stats)
+[![HenriqueOkuti's GitHub languages](https://github-readme-stats-gold-kappa-64.vercel.app/api/top-langs/?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)](https://github-readme-stats-gold-kappa-64.vercel.app/api/top-langs/?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)
 
 ###
