@@ -1,65 +1,88 @@
-<h2 align="left">Hello! My name is Henrique and I'm a developer from Brazil.</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:281936,50:4B2D6E,100:6B3FA0&height=180&section=header&text=Henrique%20Okuti&fontSize=36&fontColor=E6D4E8&fontAlignY=35&animation=fadeIn" />
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E6D4E8&center=true&vCenter=true&width=500&lines=backend+engineer+%C2%B7+physicist+by+training;ad+tech+%C2%B7+distributed+systems+%C2%B7+mongodb+at+scale;200%2B+anime+and+counting;coffee-powered+since+2018" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="left">About me</h3>
+---
 
-- <p align="left">I'm a physics bachelor with a major in optics and photonics</p>
-- <p align="left">Recently finished a Full Stack Bootcamp <a href="https://www.driven.com.br/">@Driven</a></p>
-- <p align="left">Coffee enthusiast &#9749</p>
-- <p align="left"><a href="https://www.codewars.com/users/HenriqueOkuti">Codewars</a> doer on my spare time</p>
-- <p align="left">I also casually dabble on japanese otaku culture, feel free to ask me about what i'm watching this season</p>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-###
+### About me
 
-<h3 align="left">Contact me</h2>
+Engineer from Brazil with a physics degree from USP that permanently rewired how I think — everything is a system, everything is measurable, and "it works" is not the same as "I understand why it works."
 
-- <p align="left"><a href="mailto:henrique.krastins@gmail.com">henrique.krastins@gmail.com</a></p>
-- <p align="left"><a href="https://www.linkedin.com/in/henrique-okuti/">Linkedin Profile</a></p>
+I build ad delivery systems for a living — high-throughput serving pipelines, MongoDB at scale, AWS infrastructure, the kind of code where a bad deploy means real money vanishing. 3+ years across ad tech and payments (MercadoLivre), mostly in TypeScript and Go.
 
-###
+Before all this I was doing nonlinear optics research, which sounds impressive but mostly meant staring at lasers and writing Fortran.
 
-<h3 align="left">Tools and languages i enjoy</h3>
+</td>
+<td valign="top" width="45%">
 
-<div align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript logo"  />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript logo" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS logo" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React logo"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components logo" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI logo"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres logo" />  
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma logo"  />  
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo"  />    
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo"  />      
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS logo" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Logo"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs logo"  />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger logo"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT Logo"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 logo"  />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css3 logo"  />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git logo"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode logo"/>
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint logo"/>
-  <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran logo"/>
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint logo"/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora logo"/>
-  
-</div>
+### Currently
 
-###
+- Working on high-throughput ad serving @ [Context2](https://github.com/Context2)
+- Wrangling MongoDB Atlas clusters so they don't bankrupt us
+- Watching way too much anime this season
+- Trying to pull for characters I can't afford in gacha games
 
-<h3 align="left">Some stats</h2>
+</td>
+</tr>
+</table>
 
-###
+---
 
-[![HenriqueOkuti's GitHub stats](https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)](https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)
+### Tools of the trade
 
-[![HenriqueOkuti's GitHub languages](https://github-readme-stats-gold-kappa-64.vercel.app/api/top-langs/?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)](https://github-readme-stats-gold-kappa-64.vercel.app/api/top-langs/?username=HenriqueOkuti&theme=tokyonight&hide_title=false&ring_color=E6D4E8&bg_color=281936&layout=compact)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,go,py,nestjs,nodejs,mongodb,postgres,redis,aws,docker&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
 
-###
+---
+
+<details>
+<summary><b>Beyond the terminal</b> (click to expand)</summary>
+<br>
+
+**Anime** — 200+ series deep and always watching what's airing. Spring 2026 I'm on Tongari Boushi no Atelier, RE:Zero S4, Akane-banashi, Nippon Sangoku, Yomi no Tsugai, Bookworm S4, and Slime S4. I really should start a MAL at this point.
+
+**Gaming** — Gacha (Genshin, Star Rail, ZZZ, Uma Musume, Nikke), survival horror (Resident Evil, Silent Hill, Fear and Hunger), strategy (EU4, HOI4, Total War), and RPGs that eat entire weekends (BG3, Persona, Like a Dragon, FF Tactics, Metaphor). Recently finished RE9.
+
+**Film** — PTA, Nolan, Edward Berger, Anders Thomas Jensen, Zach Cregger... I'd keep going but this section is already longer than it should be.
+
+**Coffee** — powers all of the above.
+
+</details>
+
+---
+
+### Get in touch
+
+<p align="center">
+  <a href="mailto:henrique.krastins@gmail.com">
+    <img src="https://img.shields.io/badge/email-E6D4E8?style=for-the-badge&logo=gmail&logoColor=281936" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-okuti/">
+    <img src="https://img.shields.io/badge/linkedin-E6D4E8?style=for-the-badge&logo=linkedin&logoColor=281936" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<details>
+<summary><b>Stats</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats-gold-kappa-64.vercel.app/api?username=HenriqueOkuti&theme=tokyonight&hide_title=true&ring_color=E6D4E8&bg_color=281936&layout=compact" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-gold-kappa-64.vercel.app/api/top-langs/?username=HenriqueOkuti&theme=tokyonight&hide_title=true&ring_color=E6D4E8&bg_color=281936&layout=compact" alt="Top Languages" />
+</p>
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:281936,50:4B2D6E,100:6B3FA0&height=100&section=footer" />
